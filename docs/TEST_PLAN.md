@@ -1,0 +1,3 @@
+# Test plan (all results: not yet run)
+1. App builds and installs on RG Cube. 2. App registers ("Ready"). 3. Pair with a PC; check at gamepad-tester.com that all buttons, d-pad, sticks and triggers register. 4. Remap a button, save, relaunch, confirm it persists. 5. Reconnect after Bluetooth off/on. 6. Check input latency and 30-minute stability. 7. Separately: Switch 2 pairing attempt, recorded as pass/fail with firmware version.
+8. Switch mode: confirm the Switch lists the device as a Pro Controller, then test every button, d-pad, both sticks, and remapping. Record firmware versions and pass/fail honestly.
